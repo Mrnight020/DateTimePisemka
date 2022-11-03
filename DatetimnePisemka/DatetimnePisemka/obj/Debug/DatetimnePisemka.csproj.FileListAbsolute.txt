@@ -1,0 +1,10 @@
+G:\Programování\DatetimnePisemka\DatetimnePisemka\bin\Debug\DatetimnePisemka.exe.config
+G:\Programování\DatetimnePisemka\DatetimnePisemka\bin\Debug\DatetimnePisemka.exe
+G:\Programování\DatetimnePisemka\DatetimnePisemka\bin\Debug\DatetimnePisemka.pdb
+G:\Programování\DatetimnePisemka\DatetimnePisemka\obj\Debug\DatetimnePisemka.csprojAssemblyReference.cache
+G:\Programování\DatetimnePisemka\DatetimnePisemka\obj\Debug\DatetimnePisemka.Form1.resources
+G:\Programování\DatetimnePisemka\DatetimnePisemka\obj\Debug\DatetimnePisemka.Properties.Resources.resources
+G:\Programování\DatetimnePisemka\DatetimnePisemka\obj\Debug\DatetimnePisemka.csproj.GenerateResource.cache
+G:\Programování\DatetimnePisemka\DatetimnePisemka\obj\Debug\DatetimnePisemka.csproj.CoreCompileInputs.cache
+G:\Programování\DatetimnePisemka\DatetimnePisemka\obj\Debug\DatetimnePisemka.exe
+G:\Programování\DatetimnePisemka\DatetimnePisemka\obj\Debug\DatetimnePisemka.pdb
